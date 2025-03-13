@@ -124,4 +124,4 @@ Pull requests are welcome! Open an issue for discussions.
 ---
 
 <h3 align="center"> ⭐ Star this repo if you like it! ⭐ </h3>
-<p align="center"> 🚀 Follow me on GitHub: <a href="https://https://github.com/VimarshDwivedi">Vimarsh Dwivedi</a> </p>
+<p align="center"> 🚀 Follow me on GitHub: <a href="https://github.com/VimarshDwivedi">Vimarsh Dwivedi</a> </p>
