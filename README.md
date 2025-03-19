@@ -113,7 +113,7 @@ Pull requests are welcome! Open an issue for discussions.
 
 ## 📬 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/vimarsh-dwivedi-9b2806165/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vimarshdwivedi260@gmail.com">
