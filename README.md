@@ -84,8 +84,8 @@ This project predicts house prices using both **textual features** (like locatio
 ---
 
 ## 🔥 Results  
-📈 **Achieved Accuracy:** *XX% (mention your score here)*  
-🎯 **Model Comparison:** *Include a small table/chart here if possible*  
+📈 **Achieved Accuracy:** *92.6% 
+ 
 
 ---
 
