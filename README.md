@@ -203,18 +203,7 @@ print(me.say_hi())
 
 ---
 
-## 🚀 **Featured Projects**
 
-<div align="center">
-  <a href="https://github.com/VimarshDwivedi/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VimarshDwivedi&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/VimarshDwivedi/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VimarshDwivedi&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2"/>
-  </a>
-</div>
-
----
 
 ## 🤝 **Let's Connect & Collaborate!**
 
