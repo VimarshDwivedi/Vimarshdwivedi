@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/github/followers/VimarshDwivedi?label=👥%20Followers&style=for-the-badge&color=4ECDC4&labelColor=black" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/🚀%20Status-Coding%20Like%20Crazy-brightgreen?style=for-the-badge&color=FECA57" alt="Status" />
   <img src="https://img.shields.io/badge/☕%20Coffee%20Level-Infinite-brown?style=for-the-badge&color=8B4513" alt="Coffee Level" />
+  <img src="https://img.shields.io/badge/Codolio-DEADSHOT-blue?style=for-the-badge" alt="Codolio Profile" />
 </p>
 
 ---
